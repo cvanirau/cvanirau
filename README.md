@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cvanirau
+- 👋 Hi, I’m @Rauu
 - 👀 I’m interested in Data Science, NLP, Deep Learning, ML
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on NLP, ML
